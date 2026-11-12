@@ -1,8 +1,8 @@
 {
-  "yama": "1.3.5",
-  "taban": "1.3.5",
-  "taban_etiket": "1.3.5",
-  "zorunlu_taban": "1.3.5",
+  "yama": "2.0",
+  "taban": "2.0",
+  "taban_etiket": "2.0",
+  "zorunlu_taban": "2.0",
   "windows_dosya": "MCTR.Kule.Savunma.exe",
   "android_dosya": "MCTR.Kule.Savunma.apk",
   "windows_sha256": "",
